@@ -172,29 +172,4 @@ Contributions are welcome! Please follow these steps to contribute:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgements
-
-- [PyGithub](https://pygithub.readthedocs.io/en/latest/)
-- [Requests](https://requests.readthedocs.io/en/latest/)
-- [python-dotenv](https://github.com/theskumar/python-dotenv)
-
-## Contact
-
-For any questions or suggestions, feel free to open an issue or contact the repository owner.
-```
-
----
-
-### Additional Notes
-
-- **Security**: Always keep your `.env` file secure and avoid committing it to any public repositories. Using `python-dotenv` helps manage sensitive information without exposing it in your codebase.
-
-- **Extensibility**: This script can be extended to handle additional file types, support multiple GitHub users, or integrate with other services as needed.
-
-- **Enhancements**: Consider adding logging functionality using Python's `logging` module for better monitoring and debugging.
-
----
-
-With these files in place, your project is well-documented and easy to set up for anyone who wants to use or contribute to it. If you have any further questions or need additional assistance, feel free to ask!
+This project is licensed under the [MIT License](LICENSE) (no)
